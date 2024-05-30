@@ -3,6 +3,7 @@ import requests
 import pandas as pd
 
 from assets.citycode import city_code
+from assets.currencycode import currency_code
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36',
@@ -18,7 +19,7 @@ def get_hotel_data(city, checkin, checkout):
            "&efdco=1&label=gen173nr-1FCAEoggI46AdIM1gEaDuIAQGYATG4ARfIAQzYAQHoAQH4AQKIAgGoAgO4Aqqi3rI" +
            "GwAIB0gIkMWYyZGI0YTgtYzg3MC00ZTM0LThiNTUtZWZhODZjNjM5NDU52AIF4AIB&aid=304142&lang=en-us&s" +
            "b=1&src_elem=sb&src=index&" +
-           "dest_id=-"+ str(city_code[city]) +
+           "dest_id=-"+ str(city_code[city.upper()]) +
            "&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=xu" +
            "&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=54a290950c5c0287&ac_" +
            "meta=GhAyNjY3OTBhNDM3NDEwM2ExIAAoATICeHU6CUZyYW5rZnVydEAASgBQAA%3D%3D" +
@@ -47,9 +48,9 @@ def get_hotel_data(city, checkin, checkout):
 
         # Extract the hotel price
         price_element = hotel.find('span', {'data-testid': 'price-and-discounted-price'})
-        price_full = price_element.text.strip().split()
-        price = price_full[1]
-        currency = price_full[0]
+        price_raw = price_element.text.strip().split()
+        price = price_raw[1]
+        currency = currency_code[price_raw[0]] # Converts the € Symbol to EUR
 
         # Extract the hotel rating
         rating_element = hotel.find('div', {'data-testid': 'review-score'})
@@ -61,7 +62,9 @@ def get_hotel_data(city, checkin, checkout):
             'location': location,
             'price': float(price),
             'currency': currency,
-            'rating': rating
+            'rating': rating,
+            'checkin_date': checkin,
+            'checkout_date': checkout,
         })
 
     return pd.DataFrame(hotels)

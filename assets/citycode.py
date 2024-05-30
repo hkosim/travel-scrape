@@ -1,4 +1,4 @@
 city_code = {
-    "Frankfurt Hessen Germany": 1771148,
-    "Berlin": 1746443
+    "FRANKFURT_HESSEN_GERMANY": 1771148,
+    "BERLIN": 1746443
 }
