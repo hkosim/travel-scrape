@@ -1,3 +1,5 @@
+from datetime import datetime
+
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
@@ -58,6 +60,7 @@ def get_hotel_data(city, checkin, checkout):
 
         #Append hotes_data with info about hotel
         hotels.append({
+            'date_scraped': datetime.now().strftime('%Y_%m_%d'),
             'name': name,
             'location': location,
             'price': float(price),

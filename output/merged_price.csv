@@ -1,79 +1,32 @@
-name;price_2024-07-01;price_2024-07-02;price_2024-07-03;price_2024-07-04;price_2024-07-05;price_2024-07-06;price_2024-07-07;price_2024-07-08;price_2024-07-09
-Adler Hotel Frankfurt;;;;;;;;;92.0
-Alexander am Zoo;;150.0;;;;;;;
-Avani Frankfurt City Hotel - previously NH Collection Frankfurt City;;;220.0;;;184.0;111.0;;128.0
-B&B HOTEL Frankfurt-Hbf;;;;;104.0;104.0;;;
-B&B Hotel Frankfurt-Airport;;;;140.0;;;;;
-B&B Hotel Frankfurt-Messe;;;;201.0;;;;;
-BIO-Hotel Villa Orange;;;;245.0;;;;;
-Best Western Hotel Airport Frankfurt;;;;148.0;;;;;
-Best Western Plus Welcome Hotel Frankfurt;;;;;;;99.0;;
-Charming Apartments Frankfurt City;;;;324.0;;;;;
-Citadines City Centre Frankfurt;;;;;;;;99.0;
-Comfort Hotel Frankfurt Central Station;;;;;;;56.0;;
-Crowne Plaza Frankfurt Congress Hotel, an IHG Hotel;;170.0;;;;;;;
-DORMERO Hotel Frankfurt;;;;;;;60.0;60.0;60.0
-Dorint Main Taunus Frankfurt/Sulzbach;;164.0;164.0;;;;;;
-Europa Style;;282.0;282.0;;;;102.0;118.0;
-Five Elements Hostel Frankfurt;;;;;;;;49.0;
-Flemings Hotel Frankfurt-Central;255.0;229.0;271.0;233.0;118.0;115.0;85.0;116.0;113.0
-Flemings Selection Hotel Frankfurt-City;379.0;296.0;306.0;259.0;160.0;199.0;135.0;;194.0
-H4 Hotel Frankfurt Messe;243.0;;;;;;;;
-Hampton By Hilton Frankfurt Airport;;185.0;188.0;149.0;;;;;
-Hampton By Hilton Frankfurt City Centre East;215.0;231.0;263.0;;;;;98.0;
-Hampton by Hilton Frankfurt City Centre;;;;;;;102.0;92.0;97.0
-Hilton Garden Inn Frankfurt Airport;;;;213.0;;;;;
-Hilton Garden Inn Frankfurt City Centre;;;;;;158.0;114.0;119.0;131.0
-Holiday Inn Frankfurt - Alte Oper, an IHG Hotel;239.0;289.0;350.0;259.0;;;;;143.0
-Homaris Apartments Frankfurt - Digital Check-In;;;;211.0;;;;;80.0
-Hotel Europa Life;312.0;263.0;272.0;;;;88.0;112.0;
-Hotel Forty Four;;;;67.0;;;;;
-Hotel Frankfurt Messe Affiliated by Meliá;283.0;;;;;;;;
-Hotel Monopol - Central Station;;;;;119.0;112.0;80.0;87.0;
-Hyatt Place Frankfurt Airport;;155.0;189.0;185.0;145.0;135.0;109.0;110.0;110.0
-INNSiDE by Meliá Frankfurt Eurotheum;459.0;299.0;345.0;341.0;254.0;253.0;180.0;144.0;
-INNSiDE by Meliá Frankfurt Ostend;279.0;;;;;;;;
-JW Marriott Hotel Frankfurt;;;343.0;;250.0;;;;
-LUME Boutique Hotel, Autograph Collection;;;;;203.0;195.0;;;
-Leonardo Hotel Frankfurt City Center;;;;;;;70.0;63.0;62.0
-Leonardo Royal Hotel Frankfurt;;125.0;130.0;;;;;72.0;
-Lindley Lindenberg;339.0;263.0;272.0;;204.0;216.0;;;117.0
-LyvInn Hotel Frankfurt Messe;;;;;;;79.0;;84.0
-MEININGER Hotel Frankfurt Main / Airport;;;;121.0;;;;;
-Manhattan Hotel;;;;;;;;69.0;69.0
-Maritim Hotel Frankfurt;;;;;;128.0;;;
-Meliá Frankfurt City;;;;523.0;231.0;170.0;203.0;130.0;
-Motel Frankfurt;;;;164.0;;;;;
-Motel One Frankfurt Airport;223.0;183.0;;183.0;163.0;;73.0;;
-Motel One Frankfurt Messe;243.0;;;;;143.0;;;
-Motel One Frankfurt-Römer;;;;;;153.0;;;
-Moxy Frankfurt City Center;283.0;;;;165.0;156.0;;;
-Munique Hotel Frankfurt City;;;;;;;;;69.0
-Mövenpick Hotel Frankfurt City Messe;283.0;283.0;333.0;283.0;183.0;143.0;;;
-NH Collection Frankfurt Spin Tower;218.0;;;;158.0;149.0;;134.0;134.0
-NH Frankfurt Messe;239.0;;;;;;;;
-Panorama Hostel;;;;106.0;;;37.0;;
-Park Inn by Radisson Frankfurt Airport;168.0;168.0;158.0;158.0;128.0;128.0;;111.0;111.0
-Pearl Design Hotel - Frankfurt City;;243.0;;;;;;;
-Pension Alpha - Frankfurt City Central Station;;;184.0;;;;;;
-Plaza Hotel & Living Frankfurt;;152.0;170.0;;;132.0;;;78.0
-Premier Inn Frankfurt City Centre;;;;;;;60.0;63.0;66.0
-Premier Inn Frankfurt City Europaviertel;;;;;;;61.0;63.0;67.0
-Premier Inn Frankfurt Westend;;;;;;;64.0;64.0;66.0
-Private room with large bed -Netflix and projector;;;;72.0;;;;;
-Radisson Blu Hotel Frankfurt;258.0;258.0;301.0;;165.0;148.0;119.0;131.0;139.0
-Roomers, Frankfurt, a Member of Design Hotels;;330.0;321.0;330.0;213.0;;;;
-Scandic Frankfurt Hafenpark;;161.0;173.0;;122.0;122.0;;;83.0
-Scandic Frankfurt Museumsufer;;;;;;;115.0;108.0;
-Sheraton Frankfurt Airport Hotel & Conference Center;216.0;195.0;;195.0;;150.0;142.0;;
-Sofitel Frankfurt Opera;;;386.0;;294.0;;;;
-Staycity Aparthotels Frankfurt Airport;157.0;;;;127.0;;;;
-Steigenberger Airport Hotel Frankfurt;;;147.0;;121.0;;;;
-Steigenberger Icon Frankfurter Hof;;348.0;332.0;300.0;232.0;;;;228.0
-THE FLAG West M.;433.0;;;;;;;;
-The Domicil Hotel Frankfurt City;;;;;;;;67.0;
-The Westin Grand Frankfurt;;;;;197.0;219.0;;;
-Villa Westend Hotel an der Messe;292.0;330.0;388.0;;215.0;215.0;99.0;96.0;90.0
-mainhaus Stadthotel Frankfurt;394.0;230.0;207.0;202.0;;;;;
-nhow Frankfurt;242.0;;;;186.0;144.0;;;
-the niu Charly;214.0;;;;214.0;213.0;88.0;74.0;89.0
+name;rating;price_2024-07-01;price_2024-07-02;price_2024-07-03;price_2024-07-04;price_2024-07-05;price_2024-07-06;price_2024-07-07;price_2024-07-08;price_2024-07-09;price_2024-07-10;price_2024-07-11;price_2024-07-12;price_2024-07-13;price_2024-07-14;price_2024-07-15;price_2024-07-16;price_2024-07-17;price_2024-07-18;price_2024-07-19;price_2024-07-20;price_2024-07-21;price_2024-07-22;price_2024-07-23;price_2024-07-24;price_2024-07-25;price_2024-07-26;price_2024-07-27;price_2024-07-28;price_2024-07-29;price_2024-07-30;count;min;max;average
+Premier Inn Frankfurt Westend;8.7;;;;;;;64.0;64.0;66.0;68.0;;;86.0;60.0;62.0;62.0;64.0;63.0;64.0;62.0;60.0;60.0;60.0;60.0;61.0;70.0;74.0;60.0;60.0;59.0;23;59.0;86.0;64.045
+NH Collection Frankfurt Spin Tower;8.7;218.0;;;;158.0;149.0;129.0;134.0;134.0;134.0;125.0;136.0;139.0;118.0;118.0;118.0;;118.0;;118.0;118.0;118.0;118.0;118.0;;118.0;118.0;118.0;118.0;118.0;25;118.0;218.0;129.5
+Citadines City Centre Frankfurt;8.6;;;;;;133.0;;;;101.0;;126.0;;85.0;94.0;86.0;;85.0;;85.0;85.0;85.0;88.0;;;85.0;86.0;;85.0;86.0;16;85.0;133.0;93.0
+Scandic Frankfurt Museumsufer;8.5;228.0;;;;;;107.0;106.0;122.0;122.0;;;;93.0;;99.0;;99.0;;;;99.0;100.0;;;108.0;108.0;101.0;98.0;106.0;16;93.0;228.0;113.067
+Meliá Frankfurt City;8.5;;;;;231.0;170.0;203.0;140.0;144.0;;173.0;139.0;139.0;122.0;130.0;139.0;139.0;147.0;164.0;139.0;;130.0;139.0;;;152.0;173.0;130.0;120.0;139.0;23;120.0;231.0;150.091
+Motel One Frankfurt Messe;8.5;243.0;;;;;143.0;;;;;123.0;133.0;93.0;;93.0;;;93.0;;93.0;;;;;;93.0;93.0;;;;11;93.0;243.0;120.0
+Europa Style;8.4;;282.0;282.0;251.0;;;98.0;109.0;;138.0;;;;;112.0;112.0;;112.0;;;;112.0;112.0;;;109.0;;;103.0;112.0;15;98.0;282.0;146.0
+Premier Inn Frankfurt City Centre;8.4;;;;;;;60.0;63.0;66.0;72.0;;;97.0;61.0;63.0;64.0;68.0;63.0;65.0;69.0;61.0;63.0;63.0;65.0;62.0;72.0;;59.0;59.0;59.0;22;59.0;97.0;65.429
+Hyatt Place Frankfurt Airport;8.4;;155.0;189.0;;145.0;135.0;109.0;;110.0;;132.0;;;98.0;102.0;;;98.0;90.0;93.0;89.0;102.0;103.0;;98.0;;;86.0;94.0;102.0;20;86.0;189.0;112.105
+Hampton By Hilton Frankfurt City Centre East;8.4;215.0;;263.0;;;;;;;;;;;86.0;86.0;88.0;;;;;86.0;91.0;90.0;;;;95.0;83.0;;92.0;12;83.0;263.0;115.909
+Hampton by Hilton Frankfurt City Centre;8.3;;;;;;;102.0;;97.0;97.0;;;;;;;;84.0;;102.0;80.0;84.0;88.0;;;;;80.0;84.0;88.0;12;80.0;102.0;89.636
+Motel One Frankfurt Airport;8.3;223.0;183.0;;183.0;163.0;;73.0;;;;;;;73.0;;;;;73.0;73.0;73.0;;;;;73.0;;;;;11;73.0;223.0;119.0
+Flemings Selection Hotel Frankfurt-City;8.3;379.0;;306.0;239.0;160.0;199.0;135.0;177.0;194.0;;175.0;151.0;;149.0;148.0;147.0;148.0;148.0;146.0;147.0;;147.0;146.0;;;149.0;164.0;147.0;135.0;146.0;25;135.0;379.0;174.25
+Avani Frankfurt City Hotel - previously NH Collection Frankfurt City;8.3;;;220.0;203.0;;;111.0;119.0;128.0;133.0;129.0;142.0;134.0;;115.0;110.0;;118.0;106.0;109.0;106.0;;113.0;;;112.0;103.0;;102.0;;20;102.0;220.0;127.0
+Hotel Europa Life;8.3;;;272.0;232.0;;;88.0;103.0;;122.0;;;;86.0;83.0;78.0;78.0;84.0;;;73.0;78.0;78.0;78.0;78.0;78.0;97.0;73.0;77.0;78.0;21;73.0;272.0;100.7
+Radisson Blu Hotel Frankfurt;8.2;258.0;;301.0;292.0;165.0;148.0;119.0;131.0;139.0;139.0;131.0;119.0;119.0;119.0;;116.0;;116.0;;;105.0;114.0;;114.0;114.0;;114.0;105.0;114.0;114.0;24;105.0;301.0;143.739
+Premier Inn Frankfurt City Europaviertel;8.2;;;;;;;61.0;63.0;67.0;72.0;;;97.0;60.0;62.0;63.0;68.0;63.0;70.0;62.0;60.0;61.0;61.0;62.0;60.0;;;60.0;61.0;61.0;21;60.0;97.0;64.7
+the niu Charly;8.2;214.0;;;;214.0;;;74.0;89.0;77.0;;;;65.0;70.0;86.0;;76.0;;74.0;65.0;70.0;73.0;71.0;70.0;86.0;86.0;65.0;70.0;;20;65.0;214.0;89.211
+Moxy Frankfurt City Center;8.1;283.0;219.0;237.0;;165.0;156.0;;;;;;138.0;138.0;;;;;;;102.0;;;;;;111.0;111.0;;;;11;102.0;283.0;166.0
+Best Western Plus Welcome Hotel Frankfurt;8.0;;;;;;;99.0;;;111.0;120.0;120.0;;68.0;72.0;72.0;72.0;72.0;68.0;68.0;68.0;72.0;72.0;72.0;72.0;68.0;68.0;68.0;67.0;72.0;22;67.0;120.0;78.143
+Flemings Hotel Frankfurt-Central;8.0;255.0;229.0;263.0;215.0;122.0;114.0;87.0;107.0;113.0;;111.0;;;87.0;110.0;110.0;113.0;111.0;104.0;100.0;;;;;;102.0;102.0;86.0;107.0;116.0;23;86.0;263.0;130.182
+Sheraton Frankfurt Airport Hotel & Conference Center;8.0;216.0;195.0;;195.0;183.0;;142.0;;;;174.0;;;125.0;;;;144.0;;;125.0;;;;;144.0;;130.0;;;12;125.0;216.0;161.182
+Park Inn by Radisson Frankfurt Airport;8.0;168.0;168.0;158.0;158.0;128.0;128.0;;111.0;111.0;111.0;130.0;130.0;;91.0;96.0;96.0;96.0;96.0;;;89.0;96.0;96.0;96.0;;106.0;;89.0;94.0;;24;89.0;168.0;114.87
+Hilton Garden Inn Frankfurt City Centre;7.9;;;;224.0;;158.0;114.0;119.0;131.0;122.0;134.0;149.0;;;;;;101.0;;99.0;;;;;95.0;99.0;99.0;86.0;;;15;86.0;224.0;123.571
+Villa Westend Hotel an der Messe;7.9;292.0;330.0;388.0;;215.0;;103.0;91.0;90.0;98.0;146.0;;127.0;;98.0;90.0;;98.0;;91.0;;98.0;98.0;;;91.0;98.0;;91.0;98.0;21;90.0;388.0;141.55
+INNSiDE by Meliá Frankfurt Eurotheum;7.9;459.0;299.0;345.0;341.0;254.0;253.0;180.0;144.0;152.0;162.0;152.0;166.0;158.0;155.0;154.0;137.0;162.0;137.0;122.0;122.0;134.0;144.0;144.0;166.0;137.0;177.0;187.0;143.0;137.0;137.0;31;122.0;459.0;185.333
+Adler Hotel Frankfurt;7.9;;;;;;;;;92.0;;;;;68.0;;79.0;83.0;;83.0;70.0;73.0;;79.0;83.0;76.0;;;73.0;76.0;;13;68.0;92.0;77.917
+Pearl Design Hotel - Frankfurt City;7.6;;243.0;;;;;;;;153.0;117.0;118.0;;;94.0;94.0;;94.0;;73.0;;73.0;73.0;;;72.0;;;73.0;94.0;14;72.0;243.0;105.462
+Leonardo Hotel Frankfurt City Center;7.6;;171.0;;;;;70.0;63.0;62.0;;94.0;;;64.0;60.0;57.0;60.0;;63.0;;60.0;58.0;58.0;58.0;58.0;;;61.0;59.0;58.0;19;57.0;171.0;68.556
+Comfort Hotel Frankfurt Central Station;7.0;;;;;;;56.0;;;;;;;56.0;;56.0;;;56.0;;56.0;56.0;56.0;;56.0;56.0;;;;56.0;11;56.0;56.0;56.0
+Hotel Düsseldorfer Hof;6.7;;;;;;;;;;;;;57.0;48.0;48.0;48.0;48.0;48.0;48.0;48.0;48.0;48.0;48.0;48.0;48.0;;;48.0;48.0;48.0;17;48.0;57.0;48.562

@@ -1,27 +1,27 @@
-name;location;price;currency;rating;checkin_date;checkout_date
-Adler Hotel Frankfurt;Bahnhofsviertel, Frankfurt;92.0;EUR;7.9;2024-07-09;2024-07-10
-Avani Frankfurt City Hotel - previously NH Collection Frankfurt City;Frankfurt City Center (Old Town), Frankfurt;128.0;EUR;8.3;2024-07-09;2024-07-10
-DORMERO Hotel Frankfurt;Gallusviertel, Frankfurt;60.0;EUR;7.6;2024-07-09;2024-07-10
-Europa Style;Gutleutviertel, Frankfurt;138.0;EUR;8.4;2024-07-09;2024-07-10
-Flemings Hotel Frankfurt-Central;Gallusviertel, Frankfurt;110.0;EUR;8.0;2024-07-09;2024-07-10
-Flemings Selection Hotel Frankfurt-City;Frankfurt City Center (Old Town), Frankfurt;194.0;EUR;8.3;2024-07-09;2024-07-10
-Homaris Apartments Frankfurt - Digital Check-In;Frankfurt City Center (Old Town), Frankfurt;80.0;EUR;8.1;2024-07-09;2024-07-10
-Hotel Monopol - Central Station;Gutleutviertel, Frankfurt;80.0;EUR;7.3;2024-07-09;2024-07-10
-Hyatt Place Frankfurt Airport;Frankfurt Airport Area, Frankfurt;110.0;EUR;8.4;2024-07-09;2024-07-10
-INNSiDE by Meliá Frankfurt Eurotheum;Frankfurt City Center (Old Town), Frankfurt;152.0;EUR;7.9;2024-07-09;2024-07-10
-Leonardo Hotel Frankfurt City Center;Bahnhofsviertel, Frankfurt;62.0;EUR;7.6;2024-07-09;2024-07-10
-Leonardo Royal Hotel Frankfurt;Sachsenhausen, Frankfurt;75.0;EUR;7.5;2024-07-09;2024-07-10
-LyvInn Hotel Frankfurt Messe;Gallusviertel, Frankfurt;84.0;EUR;8.2;2024-07-09;2024-07-10
-Manhattan Hotel;Bahnhofsviertel, Frankfurt;69.0;EUR;7.3;2024-07-09;2024-07-10
-Meliá Frankfurt City;Westend, Frankfurt;144.0;EUR;8.5;2024-07-09;2024-07-10
-Munique Hotel Frankfurt City;Bahnhofsviertel, Frankfurt;69.0;EUR;5.3;2024-07-09;2024-07-10
-NH Collection Frankfurt Spin Tower;Gallusviertel, Frankfurt;134.0;EUR;8.7;2024-07-09;2024-07-10
-Park Inn by Radisson Frankfurt Airport;Frankfurt Airport Area, Frankfurt;111.0;EUR;8.0;2024-07-09;2024-07-10
-Premier Inn Frankfurt City Centre;Bahnhofsviertel, Frankfurt;66.0;EUR;8.4;2024-07-09;2024-07-10
-Premier Inn Frankfurt City Europaviertel;Gallusviertel, Frankfurt;67.0;EUR;8.2;2024-07-09;2024-07-10
-Premier Inn Frankfurt Westend;Westend, Frankfurt;66.0;EUR;8.7;2024-07-09;2024-07-10
-Radisson Blu Hotel Frankfurt;Bockenheim, Frankfurt;139.0;EUR;8.2;2024-07-09;2024-07-10
-Scandic Frankfurt Hafenpark;Ostend, Frankfurt;83.0;EUR;8.7;2024-07-09;2024-07-10
-Scandic Frankfurt Museumsufer;Bahnhofsviertel, Frankfurt;115.0;EUR;8.5;2024-07-09;2024-07-10
-Villa Westend Hotel an der Messe;Westend, Frankfurt;90.0;EUR;7.9;2024-07-09;2024-07-10
-the niu Charly;Bahnhofsviertel, Frankfurt;89.0;EUR;8.2;2024-07-09;2024-07-10
+date_scraped;name;location;price;currency;rating;checkin_date;checkout_date
+2024_05_31;Adler Hotel Frankfurt;Bahnhofsviertel, Frankfurt;92.0;EUR;7.9;2024-07-09;2024-07-10
+2024_05_31;Avani Frankfurt City Hotel - previously NH Collection Frankfurt City;Frankfurt City Center (Old Town), Frankfurt;128.0;EUR;8.3;2024-07-09;2024-07-10
+2024_05_31;DORMERO Hotel Frankfurt;Gallusviertel, Frankfurt;60.0;EUR;7.6;2024-07-09;2024-07-10
+2024_05_31;Flemings Hotel Frankfurt-Central;Gallusviertel, Frankfurt;113.0;EUR;8.0;2024-07-09;2024-07-10
+2024_05_31;Flemings Selection Hotel Frankfurt-City;Frankfurt City Center (Old Town), Frankfurt;194.0;EUR;8.3;2024-07-09;2024-07-10
+2024_05_31;Hampton by Hilton Frankfurt City Centre;Gallusviertel, Frankfurt;97.0;EUR;8.3;2024-07-09;2024-07-10
+2024_05_31;Hilton Garden Inn Frankfurt City Centre;Bahnhofsviertel, Frankfurt;131.0;EUR;7.9;2024-07-09;2024-07-10
+2024_05_31;Homaris Apartments Frankfurt - Digital Check-In;Frankfurt City Center (Old Town), Frankfurt;80.0;EUR;8.1;2024-07-09;2024-07-10
+2024_05_31;Hotel Monopol - Central Station;Gutleutviertel, Frankfurt;80.0;EUR;7.3;2024-07-09;2024-07-10
+2024_05_31;Hyatt Place Frankfurt Airport;Frankfurt Airport Area, Frankfurt;110.0;EUR;8.4;2024-07-09;2024-07-10
+2024_05_31;INNSiDE by Meliá Frankfurt Eurotheum;Frankfurt City Center (Old Town), Frankfurt;152.0;EUR;7.9;2024-07-09;2024-07-10
+2024_05_31;Leonardo Hotel Frankfurt City Center;Bahnhofsviertel, Frankfurt;62.0;EUR;7.6;2024-07-09;2024-07-10
+2024_05_31;Leonardo Royal Hotel Frankfurt;Sachsenhausen, Frankfurt;75.0;EUR;7.5;2024-07-09;2024-07-10
+2024_05_31;LyvInn Hotel Frankfurt Messe;Gallusviertel, Frankfurt;84.0;EUR;8.2;2024-07-09;2024-07-10
+2024_05_31;Manhattan Hotel;Bahnhofsviertel, Frankfurt;69.0;EUR;7.3;2024-07-09;2024-07-10
+2024_05_31;Meliá Frankfurt City;Westend, Frankfurt;144.0;EUR;8.5;2024-07-09;2024-07-10
+2024_05_31;Munique Hotel Frankfurt City;Bahnhofsviertel, Frankfurt;69.0;EUR;5.3;2024-07-09;2024-07-10
+2024_05_31;NH Collection Frankfurt Spin Tower;Gallusviertel, Frankfurt;134.0;EUR;8.7;2024-07-09;2024-07-10
+2024_05_31;Park Inn by Radisson Frankfurt Airport;Frankfurt Airport Area, Frankfurt;111.0;EUR;8.0;2024-07-09;2024-07-10
+2024_05_31;Premier Inn Frankfurt City Centre;Bahnhofsviertel, Frankfurt;66.0;EUR;8.4;2024-07-09;2024-07-10
+2024_05_31;Premier Inn Frankfurt City Europaviertel;Gallusviertel, Frankfurt;67.0;EUR;8.2;2024-07-09;2024-07-10
+2024_05_31;Premier Inn Frankfurt Westend;Westend, Frankfurt;66.0;EUR;8.7;2024-07-09;2024-07-10
+2024_05_31;Radisson Blu Hotel Frankfurt;Bockenheim, Frankfurt;139.0;EUR;8.2;2024-07-09;2024-07-10
+2024_05_31;Scandic Frankfurt Museumsufer;Bahnhofsviertel, Frankfurt;122.0;EUR;8.5;2024-07-09;2024-07-10
+2024_05_31;Villa Westend Hotel an der Messe;Westend, Frankfurt;90.0;EUR;7.9;2024-07-09;2024-07-10
+2024_05_31;the niu Charly;Bahnhofsviertel, Frankfurt;89.0;EUR;8.2;2024-07-09;2024-07-10
